@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jakhadakash.github.io/notes-70wmdo/sitemap.xml
